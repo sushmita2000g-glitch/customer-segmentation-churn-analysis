@@ -87,12 +87,6 @@ The elbow point indicated:
 
 Optimal Clusters = 3
 
-📊 Customer Segments Visualization
-Customer Segments Scatter Plot
-
-## Customer Segments Visualization
-
-![Customer Segments](images/customer_segments.png)
 
 This scatter plot shows how customers are grouped into three distinct clusters based on their Monthly Charges and Total Charges.<img width="859" height="547" alt="scatterplot" src="https://github.com/user-attachments/assets/da0134ac-6b15-4331-895e-f2a095b0cf5c" />
 <img width="859" height="547" alt="scatterplot" src="https://github.com/user-attachments/assets/dfe43ee9-5681-4c26-8e69-dafc9ff59f8a" />
